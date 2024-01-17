@@ -22,4 +22,3 @@ jobs:
         with:
           file: docker-compose.yml
           service: webapp
-          command: npm test
